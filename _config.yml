@@ -4,8 +4,8 @@ plugins:
 
 gem "github-pages", group: :jekyll_plugins
 
-title: [ChiaLien's Profilio]
-description: [This is the profolio from JJimly's github]
-
-show_downloads: ["true"]
-google_analytics: [ChiaLien Hsu Profolio]
+title: Time Machine theme
+description: Time Machine is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-time-machine
